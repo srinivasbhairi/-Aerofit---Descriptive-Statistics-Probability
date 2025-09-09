@@ -2,7 +2,7 @@
 
 SRINIVAS BHAIRI | Data Scientist Aspirant
 
-[Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
+[Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi).
 
 ## 🏋️‍♂️ AeroFit Treadmill Customer Segmentation & Analysis
 
